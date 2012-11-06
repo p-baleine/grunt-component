@@ -48,6 +48,10 @@ module.exports = function(grunt) {
           'page-turn.css': 'src/stylus/page-turn.styl',
         }
       }
+    },
+    component: {
+      include: "client",
+      componentPath: "client/local"
     }
   });
 
