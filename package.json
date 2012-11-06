@@ -1,7 +1,7 @@
 {
   "name": "grunt-component",
   "description": "`component-build` grunt task",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "mnmly",
     "url": "http://mnmly.com/"
