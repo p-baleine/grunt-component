@@ -50,8 +50,7 @@ module.exports = function(grunt) {
       }
     },
     component: {
-      include: "client",
-      componentPath: "client/local"
+      include: "client"
     }
   });
 
